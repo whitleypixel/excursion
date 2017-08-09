@@ -1,12 +1,15 @@
 p {
-  color: orange;
-  font-size: 36px;
-  text-align: right;
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
 }
 h1 {
   font-family: Verdana;
   font-weight: Normal;
   font-size: 50px;
-  color: blue;
+  color: white;
   text-align: center;
+}
+body {
+  background-color: black;
 }
