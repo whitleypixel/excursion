@@ -1,6 +1,5 @@
-.link {
-  color: aquamarine;
-  font-size: 16px;
+body {
+  background-color: #000000;
   text-align: center;
 }
 
@@ -12,7 +11,8 @@ h1 {
   text-align: center;
 }
 
-body {
-  background-color: #000000;
+.link {
+  color: aquamarine;
+  font-size: 16px;
   text-align: center;
 }
